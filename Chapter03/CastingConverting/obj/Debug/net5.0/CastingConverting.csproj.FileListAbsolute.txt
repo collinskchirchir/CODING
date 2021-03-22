@@ -1,0 +1,16 @@
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.exe
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.deps.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.runtimeconfig.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.runtimeconfig.dev.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\CastingConverting\bin\Debug\net5.0\ref\CastingConverting.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.csprojAssemblyReference.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.AssemblyInfoInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.AssemblyInfo.cs
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.csproj.CoreCompileInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\CastingConverting\obj\Debug\net5.0\ref\CastingConverting.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.genruntimeconfig.cache

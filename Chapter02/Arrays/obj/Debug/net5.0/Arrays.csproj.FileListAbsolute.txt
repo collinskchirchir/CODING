@@ -1,0 +1,16 @@
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Arrays\obj\Debug\net5.0\Arrays.csprojAssemblyReference.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Arrays\bin\Debug\net5.0\Arrays.exe
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Arrays\bin\Debug\net5.0\Arrays.deps.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Arrays\bin\Debug\net5.0\Arrays.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Arrays\bin\Debug\net5.0\Arrays.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Arrays\obj\Debug\net5.0\Arrays.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Arrays\obj\Debug\net5.0\Arrays.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache

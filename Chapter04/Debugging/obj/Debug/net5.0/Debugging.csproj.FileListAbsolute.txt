@@ -1,0 +1,16 @@
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Debugging\bin\Debug\net5.0\Debugging.exe
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Debugging\bin\Debug\net5.0\Debugging.deps.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Debugging\bin\Debug\net5.0\Debugging.runtimeconfig.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Debugging\bin\Debug\net5.0\Debugging.runtimeconfig.dev.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Debugging\bin\Debug\net5.0\Debugging.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Debugging\bin\Debug\net5.0\ref\Debugging.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Debugging\bin\Debug\net5.0\Debugging.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Debugging\obj\Debug\net5.0\Debugging.csprojAssemblyReference.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Debugging\obj\Debug\net5.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Debugging\obj\Debug\net5.0\Debugging.AssemblyInfoInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Debugging\obj\Debug\net5.0\Debugging.AssemblyInfo.cs
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Debugging\obj\Debug\net5.0\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Debugging\obj\Debug\net5.0\Debugging.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Debugging\obj\Debug\net5.0\ref\Debugging.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Debugging\obj\Debug\net5.0\Debugging.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Debugging\obj\Debug\net5.0\Debugging.genruntimeconfig.cache

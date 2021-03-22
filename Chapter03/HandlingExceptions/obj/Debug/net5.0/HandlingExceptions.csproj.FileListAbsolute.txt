@@ -1,0 +1,16 @@
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.csprojAssemblyReference.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.AssemblyInfoInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.AssemblyInfo.cs
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.exe
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.deps.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.runtimeconfig.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.runtimeconfig.dev.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\HandlingExceptions\bin\Debug\net5.0\ref\HandlingExceptions.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\HandlingExceptions\obj\Debug\net5.0\ref\HandlingExceptions.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.genruntimeconfig.cache

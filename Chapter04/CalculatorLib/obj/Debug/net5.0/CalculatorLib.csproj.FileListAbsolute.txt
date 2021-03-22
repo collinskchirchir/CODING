@@ -1,0 +1,12 @@
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\CalculatorLib\bin\Debug\net5.0\CalculatorLib.deps.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\CalculatorLib\bin\Debug\net5.0\CalculatorLib.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\CalculatorLib\bin\Debug\net5.0\ref\CalculatorLib.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\CalculatorLib\bin\Debug\net5.0\CalculatorLib.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\CalculatorLib\obj\Debug\net5.0\CalculatorLib.csprojAssemblyReference.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\CalculatorLib\obj\Debug\net5.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\CalculatorLib\obj\Debug\net5.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\CalculatorLib\obj\Debug\net5.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\CalculatorLib\obj\Debug\net5.0\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\CalculatorLib\obj\Debug\net5.0\CalculatorLib.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\CalculatorLib\obj\Debug\net5.0\ref\CalculatorLib.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\CalculatorLib\obj\Debug\net5.0\CalculatorLib.pdb

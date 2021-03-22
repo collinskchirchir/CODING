@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "..\\Repos\\cs9dotnet5\\Chapter03"
+		},
+		{
+			"path": "Operators"
+		},
+		{
+			"path": "BooleanOperators"
+		},
+		{
+			"path": "SelectionStatements"
+		},
+		{
+			"path": "IterationStatements"
+		},
+		{
+			"path": "CastingConverting"
+		},
+		{
+			"path": "HandlingExceptions"
+		},
+		{
+			"path": "CheckingForOverflow"
+		},
+		{
+			"path": "Exercise04"
+		}
+	],
+	"settings": {}
+}

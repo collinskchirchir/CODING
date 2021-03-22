@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "..\\Repos\\cs9dotnet5\\Chapter04"
+		},
+		{
+			"path": "WritingFunctions"
+		},
+		{
+			"path": "Debugging"
+		},
+		{
+			"path": "Instrumenting"
+		},
+		{
+			"path": "CalculatorLib"
+		},
+		{
+			"path": "CalculatorLibUnitTests"
+		}
+	],
+	"settings": {}
+}

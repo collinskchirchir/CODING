@@ -1,0 +1,16 @@
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Instrumenting\bin\Degug\net5.0\Instrumenting.exe
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Instrumenting\bin\Degug\net5.0\Instrumenting.deps.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Instrumenting\bin\Degug\net5.0\Instrumenting.runtimeconfig.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Instrumenting\bin\Degug\net5.0\Instrumenting.runtimeconfig.dev.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Instrumenting\bin\Degug\net5.0\Instrumenting.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Instrumenting\bin\Degug\net5.0\ref\Instrumenting.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Instrumenting\bin\Degug\net5.0\Instrumenting.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Instrumenting\obj\Degug\net5.0\Instrumenting.csprojAssemblyReference.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Instrumenting\obj\Degug\net5.0\Instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Instrumenting\obj\Degug\net5.0\Instrumenting.AssemblyInfoInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Instrumenting\obj\Degug\net5.0\Instrumenting.AssemblyInfo.cs
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Instrumenting\obj\Degug\net5.0\Instrumenting.csproj.CoreCompileInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Instrumenting\obj\Degug\net5.0\Instrumenting.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Instrumenting\obj\Degug\net5.0\ref\Instrumenting.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Instrumenting\obj\Degug\net5.0\Instrumenting.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter04\Instrumenting\obj\Degug\net5.0\Instrumenting.genruntimeconfig.cache

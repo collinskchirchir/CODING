@@ -1,0 +1,16 @@
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.exe
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.deps.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.runtimeconfig.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.runtimeconfig.dev.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\IterationStatements\bin\Debug\net5.0\ref\IterationStatements.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.csprojAssemblyReference.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.AssemblyInfo.cs
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\IterationStatements\obj\Debug\net5.0\ref\IterationStatements.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.genruntimeconfig.cache

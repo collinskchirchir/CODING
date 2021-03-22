@@ -1,0 +1,16 @@
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.exe
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.deps.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.runtimeconfig.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.runtimeconfig.dev.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\BooleanOperators\bin\Debug\net5.0\ref\BooleanOperators.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.csprojAssemblyReference.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.AssemblyInfoInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.AssemblyInfo.cs
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\BooleanOperators\obj\Debug\net5.0\ref\BooleanOperators.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.genruntimeconfig.cache

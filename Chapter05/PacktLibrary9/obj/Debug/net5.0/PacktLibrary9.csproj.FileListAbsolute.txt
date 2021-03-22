@@ -1,0 +1,12 @@
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PacktLibrary9\bin\Debug\net5.0\PacktLibrary9.deps.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PacktLibrary9\bin\Debug\net5.0\PacktLibrary9.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PacktLibrary9\bin\Debug\net5.0\ref\PacktLibrary9.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PacktLibrary9\bin\Debug\net5.0\PacktLibrary9.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.csprojAssemblyReference.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.AssemblyInfoInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.AssemblyInfo.cs
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.csproj.CoreCompileInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PacktLibrary9\obj\Debug\net5.0\ref\PacktLibrary9.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.pdb

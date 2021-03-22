@@ -1,0 +1,16 @@
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\Operators\bin\Debug\net5.0\Operators.exe
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\Operators\bin\Debug\net5.0\Operators.deps.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\Operators\bin\Debug\net5.0\Operators.runtimeconfig.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\Operators\bin\Debug\net5.0\Operators.runtimeconfig.dev.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\Operators\bin\Debug\net5.0\Operators.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\Operators\bin\Debug\net5.0\ref\Operators.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\Operators\bin\Debug\net5.0\Operators.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\Operators\obj\Debug\net5.0\Operators.csprojAssemblyReference.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\Operators\obj\Debug\net5.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\Operators\obj\Debug\net5.0\Operators.AssemblyInfoInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\Operators\obj\Debug\net5.0\Operators.AssemblyInfo.cs
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\Operators\obj\Debug\net5.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\Operators\obj\Debug\net5.0\Operators.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\Operators\obj\Debug\net5.0\ref\Operators.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\Operators\obj\Debug\net5.0\Operators.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter03\Operators\obj\Debug\net5.0\Operators.genruntimeconfig.cache

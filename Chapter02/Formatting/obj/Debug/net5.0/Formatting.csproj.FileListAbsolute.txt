@@ -1,0 +1,16 @@
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Formatting\obj\Debug\net5.0\Formatting.csprojAssemblyReference.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Formatting\obj\Debug\net5.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Formatting\obj\Debug\net5.0\Formatting.AssemblyInfoInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Formatting\obj\Debug\net5.0\Formatting.AssemblyInfo.cs
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Formatting\obj\Debug\net5.0\Formatting.csproj.CoreCompileInputs.cache
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Formatting\bin\Debug\net5.0\Formatting.exe
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Formatting\bin\Debug\net5.0\Formatting.deps.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Formatting\bin\Debug\net5.0\Formatting.runtimeconfig.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Formatting\bin\Debug\net5.0\Formatting.runtimeconfig.dev.json
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Formatting\bin\Debug\net5.0\Formatting.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Formatting\bin\Debug\net5.0\ref\Formatting.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Formatting\bin\Debug\net5.0\Formatting.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Formatting\obj\Debug\net5.0\Formatting.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Formatting\obj\Debug\net5.0\ref\Formatting.dll
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Formatting\obj\Debug\net5.0\Formatting.pdb
+C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter02\Formatting\obj\Debug\net5.0\Formatting.genruntimeconfig.cache
