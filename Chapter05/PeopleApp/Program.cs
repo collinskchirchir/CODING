@@ -168,7 +168,8 @@ namespace PeopleApp
                     CoachClassPassenger _                           => 650M,
                     _                                               => 800M
                 };
-                WriteLine($"Flight Costs {flightCost:C} for {passenger}");
+                //WriteLine($"Flight Costs {flightCost:C} for {passenger}");
+                Some Random text
 
                 
             }
