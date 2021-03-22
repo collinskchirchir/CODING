@@ -169,6 +169,7 @@ namespace PeopleApp
                     _                                               => 800M
                 };
                 WriteLine($"Flight Costs {flightCost:C} for {passenger}");
+
                 
             }
 
