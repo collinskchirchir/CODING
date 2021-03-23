@@ -173,7 +173,19 @@ namespace PeopleApp
                 //Records (New Lang feature in C# 9)
                 // 1. Init-only properties
                 var jeff = new ImmutablePerson { FirstName = "Jeff", LastName = "Winger"};
-               WriteLine(jeff.FirstName);
+                
+                // the following is not allowed with init properties
+                // jeff.FirstName = "Geoff";
+
+                var car = new ImmutableVehicle { Brand = "Mazda MX-5 RF", Color = "Soul Red Crystal Metallic", Wheels = 4};
+                var repaintedCar = car with { Color = "Polymeta Grey Metallic"};
+                WriteLine("Original color was {0}, new color is {1}", car.Color, repaintedCar.Color);
+
+                //Positional Records
+                var oscar = new ImmutableAnimal("Oscar", "Labrador");
+                var (who, what) = oscar; // calls Deconstruct method
+                WriteLine($"{who} is a {what}.");
+
                
 
                 
