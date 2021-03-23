@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wy73gvxYOt3tQ/G8Nq5l6kSjZWAFeufBL1Lzl8vc2xFTHzyndrMXg7kQ++W3zybTDvB9ry2Tb4d6HJcqmjIg7Q==",
+  "dgSpecHash": "5byPQpb3+r/wn7FsF+Dha83ZKKfdQysD2+ovOg97YijB+FjWBmLnJSMbaZ6aDGPZsztekh0WKbudJF8278xuEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ENVY\\Documents\\Data _ Cross Platform Apps\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+  "projectFilePath": "D:\\PROJECT\\CSharp\\Packt_C#9_MarkJPrice\\CODING\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ENVY\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\ENVY\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

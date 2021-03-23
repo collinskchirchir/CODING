@@ -7,3 +7,12 @@ C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PacktLibrary\obj\De
 C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.CoreCompileInputs.cache
 C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
 C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.deps.json
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.dll
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.pdb
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csprojAssemblyReference.cache
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfoInputs.cache
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfo.cs
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.CoreCompileInputs.cache
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb

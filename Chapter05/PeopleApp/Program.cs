@@ -169,7 +169,11 @@ namespace PeopleApp
                     _                                               => 800M
                 };
                 WriteLine($"Flight Costs {flightCost:C} for {passenger}");
-                /* Just another test */
+                
+                //Records (New Lang feature in C# 9)
+                // 1. Init-only properties
+                var jeff = new ImmutablePerson { FirstName = "Jeff", LastName = "Winger"};
+                jeff.FirstName = "Geoff";
                
 
                 

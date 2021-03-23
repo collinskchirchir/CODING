@@ -19,3 +19,11 @@ C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PeopleApp\obj\Debug
 C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PeopleApp\obj\Debug\net5.0\PeopleApp.genruntimeconfig.cache
 C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PeopleApp\bin\Debug\net5.0\PacktLibrary9.dll
 C:\Users\ENVY\Documents\Data _ Cross Platform Apps\Chapter05\PeopleApp\bin\Debug\net5.0\PacktLibrary9.pdb
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\obj\Debug\net5.0\PeopleApp.csprojAssemblyReference.cache
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\obj\Debug\net5.0\PeopleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\obj\Debug\net5.0\PeopleApp.AssemblyInfoInputs.cache
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\obj\Debug\net5.0\PeopleApp.AssemblyInfo.cs
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\obj\Debug\net5.0\PeopleApp.csproj.CoreCompileInputs.cache
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\obj\Debug\net5.0\PeopleApp.dll
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\obj\Debug\net5.0\ref\PeopleApp.dll
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\obj\Debug\net5.0\PeopleApp.pdb

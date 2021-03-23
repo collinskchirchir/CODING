@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ENVY\\Documents\\Data _ Cross Platform Apps\\Chapter05\\PacktLibrary\\PacktLibrary.csproj": {}
+    "D:\\PROJECT\\CSharp\\Packt_C#9_MarkJPrice\\CODING\\Chapter05\\PacktLibrary\\PacktLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ENVY\\Documents\\Data _ Cross Platform Apps\\Chapter05\\PacktLibrary\\PacktLibrary.csproj": {
+    "D:\\PROJECT\\CSharp\\Packt_C#9_MarkJPrice\\CODING\\Chapter05\\PacktLibrary\\PacktLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ENVY\\Documents\\Data _ Cross Platform Apps\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+        "projectUniqueName": "D:\\PROJECT\\CSharp\\Packt_C#9_MarkJPrice\\CODING\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
         "projectName": "PacktLibrary",
-        "projectPath": "C:\\Users\\ENVY\\Documents\\Data _ Cross Platform Apps\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+        "projectPath": "D:\\PROJECT\\CSharp\\Packt_C#9_MarkJPrice\\CODING\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
         "packagesPath": "C:\\Users\\ENVY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ENVY\\Documents\\Data _ Cross Platform Apps\\Chapter05\\PacktLibrary\\obj\\",
+        "outputPath": "D:\\PROJECT\\CSharp\\Packt_C#9_MarkJPrice\\CODING\\Chapter05\\PacktLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ENVY\\AppData\\Roaming\\NuGet\\NuGet.Config",
