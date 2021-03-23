@@ -27,3 +27,16 @@ D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\obj\Debug\net5
 D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\obj\Debug\net5.0\PeopleApp.dll
 D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\obj\Debug\net5.0\ref\PeopleApp.dll
 D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\obj\Debug\net5.0\PeopleApp.pdb
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\bin\Debug\net5.0\PeopleApp.exe
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\bin\Debug\net5.0\PeopleApp.deps.json
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\bin\Debug\net5.0\PeopleApp.runtimeconfig.json
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\bin\Debug\net5.0\PeopleApp.runtimeconfig.dev.json
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\bin\Debug\net5.0\PeopleApp.dll
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\bin\Debug\net5.0\ref\PeopleApp.dll
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\bin\Debug\net5.0\PeopleApp.pdb
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\bin\Debug\net5.0\PacktLibrary.dll
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\bin\Debug\net5.0\PacktLibrary9.dll
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\bin\Debug\net5.0\PacktLibrary.pdb
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\bin\Debug\net5.0\PacktLibrary9.pdb
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\obj\Debug\net5.0\PeopleApp.csproj.CopyComplete
+D:\PROJECT\CSharp\Packt_C#9_MarkJPrice\CODING\Chapter05\PeopleApp\obj\Debug\net5.0\PeopleApp.genruntimeconfig.cache

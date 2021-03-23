@@ -173,7 +173,7 @@ namespace PeopleApp
                 //Records (New Lang feature in C# 9)
                 // 1. Init-only properties
                 var jeff = new ImmutablePerson { FirstName = "Jeff", LastName = "Winger"};
-                jeff.FirstName = "Geoff";
+               WriteLine(jeff.FirstName);
                
 
                 
